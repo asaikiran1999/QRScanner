@@ -63,7 +63,7 @@ TEMPLATE = """
         <h1>Live QR Code Scanner</h1>
         <div id="reader"></div>
         <div id="result" class="result-box" style="display:none;"></div>
-        <div class="footer">Powered by <a href="https://github.com/mebjas/html5-qrcode" target="_blank">html5-qrcode</a></div>
+        
     </div>
     <script>
         function parseVCard(vcard) {
